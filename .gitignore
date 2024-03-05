@@ -1,0 +1,12 @@
+# Local Netlify folder
+.netlify
+
+
+.env
+
+/mongo
+/postgres
+node_modules/
+dist/
+build/
+coverage/
